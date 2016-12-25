@@ -1,2 +1,7 @@
 *.class
 \.gradle
+*.ipr
+*.ips
+*.iws
+\.idea
+\build
